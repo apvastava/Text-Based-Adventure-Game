@@ -23,7 +23,7 @@ Welcome to the Text Adventure Game! This is a simple text-based adventure game w
 
 1. Ensure you have Python 3 installed on your computer.
 2. Save the code in a file named `text_based_adventure_game.py`.
-3. Open a terminal or command prompt and navigate to the directory where `text_adventure_game.py` is saved.
+3. Open a terminal or command prompt and navigate to the directory where `text_based_adventure_game.py` is saved.
 4. Run the game by executing the command:
 
 Enjoy your adventure!
